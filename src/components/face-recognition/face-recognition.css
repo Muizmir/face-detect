@@ -7,6 +7,10 @@
     cursor: pointer;
 }
 
+.FDimage{
+    margin-bottom: 60px;
+}
+
 img {
     width: 500px;
     height: auto;
